@@ -2,7 +2,7 @@
 
 Search millions of indicator-based trading strategies on historical data, then statistically filter out the ones that only look good by chance.
 
-> **Status:** early design phase (thesis project). Nothing described below is implemented yet.
+> **Status:** early design phase. Nothing described below is implemented yet.
 
 ---
 
